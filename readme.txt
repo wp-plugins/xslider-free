@@ -45,3 +45,7 @@ For demos, upgrade to premium version and to a complete list of differences betw
 
 
 
+== Screenshots ==
+
+1. xSlider Editor
+2. xSlider Dashboard
